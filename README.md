@@ -40,13 +40,13 @@ Sigue estos pasos para ejecutar la aplicación en tu entorno local:
 
 ## 📸 Captura de pantalla
 
-![Weather App Screenshot 1](screenshots/weather-app1.png)
+![weather-app1](https://github.com/user-attachments/assets/96b87f32-e93b-405c-83d6-6db86c726933)
 
-![Weather App Screenshot 2](screenshots/weather-app2.png)
+![weather-app2](https://github.com/user-attachments/assets/7323fc59-033f-4c3b-b73d-a3c2e8def8ba)
 
-![Weather App Screenshot 3](screenshots/weather-app3.png)
+![weather-app3](https://github.com/user-attachments/assets/184dee5d-25c3-4a82-8e7f-ba737fa51dbc)
 
-![Weather App Screenshot 4](screenshots/weather-app4.png)
+![weather-app4](https://github.com/user-attachments/assets/52eda7db-e1e6-4c00-a3e8-174b7ee4a4c0)
 
 ## 📚 Licencia
 
